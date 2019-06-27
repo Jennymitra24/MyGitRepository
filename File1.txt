@@ -5,3 +5,7 @@ class HelloGit{
                  System.out.println("Hello Git");
               }
 }
+void myBigMethod(){
+       
+sysout("has a method emp");
+}
