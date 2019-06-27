@@ -2,9 +2,12 @@ This is my first git....welcome to git...!!!!
 
 class HelloGit{
                void helloGit(){
-                               sysout("Hello Git...");
-                     }
+                               System.out.println("Hello Git...");
+               }
+
        public static void main(String str[]){
+                HelloGit obj = new HelloGit();
+                 obj.helloGit();
                  
               }
 }
