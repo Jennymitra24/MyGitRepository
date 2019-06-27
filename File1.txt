@@ -13,5 +13,5 @@ class HelloGit{
 }
  public static void myBigMethod(){
        
-sysout("has a method emp");
+System.out.println("has a method emp");
 }
